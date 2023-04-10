@@ -1,3 +1,5 @@
+package sem1;
+
 public class ConcentrateMilk extends Milk {
 
     public ConcentrateMilk(String name, double price, int value) {

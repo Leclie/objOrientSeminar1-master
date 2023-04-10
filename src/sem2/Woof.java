@@ -1,3 +1,5 @@
+package sem2;
+
 public class Woof extends Predator implements Walkable{
     public Woof(String name) {
         super(name);

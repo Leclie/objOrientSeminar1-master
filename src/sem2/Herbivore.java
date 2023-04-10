@@ -1,3 +1,5 @@
+package sem2;
+
 public abstract class Herbivore extends Mammal{
 
     public Herbivore(String name) {

@@ -1,3 +1,5 @@
+package sem2;
+
 public abstract class Animal implements Speakable{
     private String name;
     private boolean alive;

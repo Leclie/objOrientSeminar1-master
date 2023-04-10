@@ -1,3 +1,5 @@
+package sem2;
+
 public class Flysquirrel extends Herbivore implements Walkable, Flyable{
     public Flysquirrel(String name) {
         super(name);

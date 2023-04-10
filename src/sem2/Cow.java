@@ -1,3 +1,5 @@
+package sem2;
+
 public class Cow extends Herbivore implements Walkable{
     public Cow(String name) {
         super(name);

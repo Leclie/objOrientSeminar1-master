@@ -1,3 +1,5 @@
+package sem2;
+
 public class Shark extends Predator implements Floating{
     public Shark(String name) {
         super(name);

@@ -4,11 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="294481c1-8767-4022-aa30-d2d7309cb515" name="Changes" comment="1 hw">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Floating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shark.java" afterDir="false" />
+    <list default="true" id="294481c1-8767-4022-aa30-d2d7309cb515" name="Changes" comment="2 hw">
+      <change afterPath="$PROJECT_DIR$/src/sem3/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem3/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem3/Personal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem3/SubUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem3/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Bat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Chocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcentrateMilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ConcentrateMilk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Floating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Floating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flysquirrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Flysquirrel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Goat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Goat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Platypus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Platypus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Predator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Shark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Speakable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Speakable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Walkable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Walkable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Woof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Woof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/Zoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +63,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,11 +86,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680022170175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2 hw">
+      <created>1680516447832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680516447832</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 hw" />
+    <MESSAGE value="2 hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 hw" />
   </component>
 </project>

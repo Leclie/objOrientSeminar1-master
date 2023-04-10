@@ -1,4 +1,6 @@
-public class Chocolate extends Product{
+package sem1;
+
+public class Chocolate extends Product {
 
     private String taste;
     public Chocolate(String name, double price, int value, String taste) {

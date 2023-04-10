@@ -1,3 +1,5 @@
+package sem1;
+
 public class Product {
     private String name;
     private double price;

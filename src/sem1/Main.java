@@ -1,3 +1,9 @@
+package sem1;
+
+import sem1.Bread;
+import sem1.Chocolate;
+import sem1.ConcentrateMilk;
+
 public class Main {
     public static void main(String[] args) {
         VendingMachine mart = new VendingMachine();

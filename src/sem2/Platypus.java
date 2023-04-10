@@ -1,3 +1,5 @@
+package sem2;
+
 public class Platypus extends Mammal implements Walkable{
     public Platypus(String name) {
         super(name);

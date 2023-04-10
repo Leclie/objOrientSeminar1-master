@@ -1,3 +1,5 @@
+package sem2;
+
 public class Bat extends Predator implements Flyable{
     public Bat(String name) {
         super(name);

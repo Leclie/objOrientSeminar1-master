@@ -1,3 +1,5 @@
+package sem2;
+
 public class Bear extends Predator implements Walkable{
 
     private int speed;
