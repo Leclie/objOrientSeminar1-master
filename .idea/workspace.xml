@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="294481c1-8767-4022-aa30-d2d7309cb515" name="Changes" comment="3 hw">
-      <change afterPath="$PROJECT_DIR$/src/sem4/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Battle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Bow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/EbonyShield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Knife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Personage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Shield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/SteelShield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Throwing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/Weapon.java" afterDir="false" />
+    <list default="true" id="294481c1-8767-4022-aa30-d2d7309cb515" name="Changes" comment="4 hw">
+      <change afterPath="$PROJECT_DIR$/src/sem5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/controllers/Validat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/model/FileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/model/FileOperationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/model/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/model/RepositoryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/model/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/views/Commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/views/ViewUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +50,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.sem5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem4.Main" />
       <module name="javaOOP" />
@@ -67,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sem5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem5.Main" />
+      <module name="javaOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sem5.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -103,13 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681139997492</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4 hw">
+      <created>1681754525567</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681754525568</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 hw" />
     <MESSAGE value="2 hw" />
     <MESSAGE value="3 hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 hw" />
+    <MESSAGE value="4 hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 hw" />
   </component>
 </project>
